@@ -1,0 +1,6 @@
+5
+wood 5242
+coal 5247
+coal 8825
+wood 4587
+wood 2564
