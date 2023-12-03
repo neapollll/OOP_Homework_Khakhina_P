@@ -1,0 +1,14 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.31.31103/bin/Hostx64/x64/cl.exe 
+Build flags: /DWIN32;/D_WINDOWS;/W3
+Id flags:  
+
+The output was:
+2
+Оптимизирующий компилятор Microsoft (R) C/C++ версии 19.31.31105 для x64
+(C) Корпорация Майкрософт (Microsoft Corporation).  Все права защищены.
+
+CMakeCCompilerId.c
+c1: fatal error C1083: Не удается открыть файл источник: CMakeCCompilerId.c: No such file or directory,
+
+
